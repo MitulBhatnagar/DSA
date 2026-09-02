@@ -16,3 +16,15 @@ Each daily folder contains the solution file along with a brief `notes.md` expla
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/MitulBhatnagar/DSA/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/MitulBhatnagar/DSA/tree/master/0704-binary-search) |
+<!---LeetCode Topics End-->
