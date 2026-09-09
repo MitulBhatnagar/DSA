@@ -25,6 +25,7 @@ Each daily folder contains the solution file along with a brief `notes.md` expla
 | [0033-search-in-rotated-sorted-array](https://github.com/MitulBhatnagar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MitulBhatnagar/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MitulBhatnagar/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MitulBhatnagar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/MitulBhatnagar/DSA/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -32,5 +33,6 @@ Each daily folder contains the solution file along with a brief `notes.md` expla
 | [0033-search-in-rotated-sorted-array](https://github.com/MitulBhatnagar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MitulBhatnagar/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MitulBhatnagar/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MitulBhatnagar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/MitulBhatnagar/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
