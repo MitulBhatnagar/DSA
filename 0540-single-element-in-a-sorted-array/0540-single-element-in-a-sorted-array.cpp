@@ -1,24 +1,16 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-   int low = 0;
-        int high = nums.size() - 1;
-
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-
-            // Ensure mid is even for uniform comparison
-            if (mid % 2 == 1) {
-                mid--;
-            }
-
+        int lo = 0, hi = nums.size() - 1;
+        while (lo < hi) {
+            int mid = lo + (hi - lo) / 2;
+            mid -= mid & 1; // Snap odd mid down to even
             if (nums[mid] == nums[mid + 1]) {
-                low = mid + 2;
+                lo = mid + 2;
             } else {
-                high = mid;
+                hi = mid;
             }
         }
-
-        return nums[low];
+        return nums[lo];
     }
 };
