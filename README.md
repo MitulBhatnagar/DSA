@@ -30,6 +30,7 @@ Each daily folder contains the solution file along with a brief `notes.md` expla
 | [0540-single-element-in-a-sorted-array](https://github.com/MitulBhatnagar/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MitulBhatnagar/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MitulBhatnagar/DSA/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MitulBhatnagar/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +42,5 @@ Each daily folder contains the solution file along with a brief `notes.md` expla
 | [0540-single-element-in-a-sorted-array](https://github.com/MitulBhatnagar/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MitulBhatnagar/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MitulBhatnagar/DSA/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MitulBhatnagar/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 <!---LeetCode Topics End-->
