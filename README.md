@@ -25,6 +25,7 @@ Each daily folder contains the solution file along with a brief `notes.md` expla
 | [0033-search-in-rotated-sorted-array](https://github.com/MitulBhatnagar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MitulBhatnagar/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MitulBhatnagar/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/MitulBhatnagar/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MitulBhatnagar/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MitulBhatnagar/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MitulBhatnagar/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -47,4 +48,12 @@ Each daily folder contains the solution file along with a brief `notes.md` expla
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MitulBhatnagar/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MitulBhatnagar/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MitulBhatnagar/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MitulBhatnagar/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MitulBhatnagar/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
